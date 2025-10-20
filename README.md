@@ -1,5 +1,5 @@
 ## Day-1: Data Cleaning & Preprocessing
-Readed the dataset
+- Readed the dataset
 Basic checks are done(shape,size,dtypes,columns,info)
 Removed duplicate values
 Handled null values
